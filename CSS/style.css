@@ -1,0 +1,34 @@
+#backgroundtitle {
+                  background-color: rgb(61, 190, 199);  
+                }
+#text_footer {
+            font-size: small;
+            background-color: blue;
+            text-align: center;
+            color: white;
+}
+#printitle {
+            width: 190px;
+            height: 80px;
+}
+#giallosotto {
+            background-color: yellow;
+}
+#info {
+    font-size: small;
+}
+.tabtitle {
+    background-color: rgb(83, 158, 201);
+    color: white;
+}
+.tabcontent {
+    background-color: rgb(163, 220, 228);
+}
+#photo1 {
+    width: 400px;
+    height: 300px;
+}
+#photo2 {
+    width: 400px;
+    height: 300px;
+}
